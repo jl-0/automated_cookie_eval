@@ -1,0 +1,4 @@
+logs/*
+uv.lock
+*.egg-info
+.venv/*
