@@ -1,6 +1,7 @@
 # Instructions
 
 1. [Install uv0](https://docs.astral.sh/uv/getting-started/installation/)
+2. Populate tne environment variables: `COGNITO_USERNAME` and `COGNITO_PASSWORD`
 
 ```bash
 uv venv
